@@ -1,2 +1,2 @@
-# Admin_React_Project
-React with Redux in ES6
+# ORS
+ORS Admin
